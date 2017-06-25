@@ -1,0 +1,5 @@
+-add enemy
+-enemy would wonder aimlessly, until he sees you
+-hiding spots?
+-sprint function (jump 2 spaces for X turns. Cooldown)
+-weapons?
